@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-
-**s1m30/s1m30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Simeon Adebola</h1>
 <h3 align="center">Passionate Python Developer from Nigeria</h3>
 
@@ -9,6 +6,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+</p>
+
+<h2 align="left">Hackathon Projects</h2>
+<p align="left">
+Ewa Van Gogh(A2SV Hackathon):[EWG Github]("https://github.com/s1m30/Afrotales.git")
+<br>Afrotales(Microsoft Imagine Junior Cup): Afrotales was a project for the Microsoft AI for Good Challenge that focused on preserving and promoting African culture through literature. [Afrotales Github]("https://github.com/s1m30/Afrotales.git")
+<br>Eduexo(Nasa Space Apps):EduExo was developed for the NASA Space Apps Challenge under the "Chronicles of Planet Exploration" category. It aimed to create an educational platform to learn about exo planets.[Eduexo Link](https://github.com/Denzelites/Spaceapps.git)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
