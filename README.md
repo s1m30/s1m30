@@ -10,9 +10,11 @@
 
 <h2 align="left">Hackathon Projects</h2>
 <p align="left">
-Ewa Van Gogh(A2SV Hackathon):[EWG Github]("https://github.com/s1m30/Afrotales.git")
-<br>Afrotales(Microsoft Imagine Junior Cup): Afrotales was a project for the Microsoft AI for Good Challenge that focused on preserving and promoting African culture through literature. [Afrotales Github]("https://github.com/s1m30/Afrotales.git")
-<br>Eduexo(Nasa Space Apps):EduExo was developed for the NASA Space Apps Challenge under the "Chronicles of Planet Exploration" category. It aimed to create an educational platform to learn about exo planets.[Eduexo Link](https://github.com/Denzelites/Spaceapps.git)
+Ewa Van Gogh(A2SV Hackathon): <a href="https://github.com/s1m30/Afrotales.git">EWG Github Link</a><br>
+
+Afrotales(Microsoft Imagine Junior Cup): Afrotales was a project for the Microsoft AI for Good Challenge that focused on preserving and promoting African culture through literature. <a href="https://github.com/s1m30/Afrotales.git">Afrotales Github</a><br>
+
+Eduexo(Nasa Space Apps):EduExo was developed for the NASA Space Apps Challenge under the "Chronicles of Planet Exploration" category. It aimed to create an educational platform to learn about exo planets.<a href="https://github.com/Denzelites/Spaceapps.git">Eduexo Link</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
