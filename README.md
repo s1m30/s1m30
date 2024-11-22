@@ -6,9 +6,9 @@
 
 ### 🚀 About Me
 - 🧠 Passionate about **electrical engineering, Python, and electronics innovation**.
-- 🌱 I’m currently learning **Reinforcement Learning and Smart Robotics**.
+- 🌱 I’m currently learning **Artificial Intelligence(RAG, A.I. Agents, Fine-tuning)**.
 - 🔭 I’m currently working on **SupplementSage** - a local deployment tool for supplement insights and guidance.
-- 🎯 My mission is to use technology to **drive sustainable solutions**, foster **STEM education**, and **bridge resource gaps** in underserved communities.
+- 🎯 My mission is to use technology to **drive sustainable solutions** and foster **STEM education**.
 
 ---
 
@@ -17,7 +17,7 @@
 #### **🎨 Hackathon Projects**
 - **Ewa Van Gogh** (*A2SV Hackathon*):  
   A unique art generator designed to represent and amplify African culture through generative art.  
-  [GitHub Repo](https://github.com/s1m30/Afrotales.git)
+  [GitHub Repo](https://github.com/Denzelites/A2sv.git)
 
 - **Afrotales** (*Microsoft Imagine Junior Cup*):  
   A storytelling platform showcasing African folklore and history using AI.  
@@ -26,6 +26,7 @@
 - **EduExo** (*NASA Space Apps*):  
   An educational tool for exploring exoplanets and planetary science in an interactive way.  
   [GitHub Repo](https://github.com/Denzelites/Spaceapps.git)
+  [Eduexo Site Link](https://spaceapps.onrender.com/)
 
 ---
 
@@ -34,7 +35,9 @@
   Designed an autonomous robot car with **ultrasonic sensors** and **TCS3200 color detection** for obstacle avoidance and object identification.  
   - Integrated **reinforcement learning** for smart navigation.
   - Built for the *World Robotics Olympiad*
-
+- **Arduino Object Detection**:
+  An instructable which showcases the use of the HC-RS04 for object detection
+  -[Instructable Link](https://www.instructables.com/Object-Detection-Using-the-HC-RS04-and-Arduino/)
 ---
 
 ### 🧰 Languages & Tools
