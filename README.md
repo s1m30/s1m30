@@ -27,7 +27,7 @@
 ### 🌐 Connect with Me
 - 💻 LinkedIn: [Simeon Adebola](https://www.linkedin.com/in/simeon-adebola-050079263/)
 - 🐦 Twitter: [@CircuitMaverick](https://x.com/s1m30n85547)
-- 🌍 Portfolio: Coming Soon 🚧
+- 🌍 Portfolio: [Simeon Adebola](https://simeonadebola.biz)
 
 ---
 
